@@ -1,0 +1,18 @@
+<menu
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item
+        android:title="@string/navigation_players"
+        android:icon="@drawable/players"
+        android:checkable="true" />
+    <item
+        android:title="@string/navigation_teams"
+        android:icon="@drawable/teams"
+        android:checkable="true" />
+    <item
+        android:title="@string/navigation_settings"
+        android:icon="@drawable/settings"
+        android:checkable="true" />
+</menu>
